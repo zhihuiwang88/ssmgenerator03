@@ -1,0 +1,16 @@
+
+
+1. 此项目是SSM，使用代码生成器(mybatis-generator)自动生成dao、entity、mapper.xml
+,需要自己写controller、service、serviceImpl。不是mybatis-plus-generator自动生成的代码。
+2. 使用的日志是log4j
+3.简单的CRUD接口写好了且postman测试通过。没有前端页面。
+4. 测试类(HouseXiaoServiceImplTest.java)也测试通过。
+5. 项目中的DTO、VO没有用到，如果用了，不知道接口测通不。
+
+20200226
+
+
+
+
+
+
